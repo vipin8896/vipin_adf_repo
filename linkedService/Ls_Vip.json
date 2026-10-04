@@ -1,0 +1,10 @@
+{
+	"name": "Ls_Vip",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://storagevipin.dfs.core.windows.net/"
+		}
+	}
+}
